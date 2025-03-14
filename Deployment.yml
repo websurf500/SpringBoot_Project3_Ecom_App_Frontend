@@ -16,7 +16,7 @@ spec:
   spec:
     containers:
     - name: ecommstorecontainer
-      image: websurf500/mysbapp
+      image: websurf500/mysbapp-frontend
       ports:
       - containerPort: 80
 ---
